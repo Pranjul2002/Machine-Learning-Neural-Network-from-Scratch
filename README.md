@@ -6,6 +6,11 @@ Resources for Learning Machine Learning and Neural Network from scratch.
   https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 #IBM articles and Learning Path:
-Get started with machine learning - https://developer.ibm.com/learningpaths/learning-path-machine-learning-for-developers/
-Get started with deep learning - https://developer.ibm.com/learningpaths/get-started-with-deep-learning/
+Get started with machine learning - 
+https://developer.ibm.com/learningpaths/learning-path-machine-learning-for-developers/
+
+Get started with deep learning - 
+https://developer.ibm.com/learningpaths/get-started-with-deep-learning/
+
+#Article on neural networks from scratch-
 https://developer.ibm.com/articles/neural-networks-from-scratch/
